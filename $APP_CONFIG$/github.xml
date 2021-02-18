@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="6d0ce045-4024-4b6e-8b68-7d2b2b06745e" name="proposend">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
